@@ -1,0 +1,13 @@
+C:\Users\kusam\Documents\cs_code\CallDll\obj\Debug\netcoreapp3.1\CallDll.csprojAssemblyReference.cache
+C:\Users\kusam\Documents\cs_code\CallDll\obj\Debug\netcoreapp3.1\CallDll.AssemblyInfoInputs.cache
+C:\Users\kusam\Documents\cs_code\CallDll\obj\Debug\netcoreapp3.1\CallDll.AssemblyInfo.cs
+C:\Users\kusam\Documents\cs_code\CallDll\obj\Debug\netcoreapp3.1\CallDll.csproj.CoreCompileInputs.cache
+C:\Users\kusam\Documents\cs_code\CallDll\bin\Debug\netcoreapp3.1\CallDll.exe
+C:\Users\kusam\Documents\cs_code\CallDll\bin\Debug\netcoreapp3.1\CallDll.deps.json
+C:\Users\kusam\Documents\cs_code\CallDll\bin\Debug\netcoreapp3.1\CallDll.runtimeconfig.json
+C:\Users\kusam\Documents\cs_code\CallDll\bin\Debug\netcoreapp3.1\CallDll.runtimeconfig.dev.json
+C:\Users\kusam\Documents\cs_code\CallDll\bin\Debug\netcoreapp3.1\CallDll.dll
+C:\Users\kusam\Documents\cs_code\CallDll\bin\Debug\netcoreapp3.1\CallDll.pdb
+C:\Users\kusam\Documents\cs_code\CallDll\obj\Debug\netcoreapp3.1\CallDll.dll
+C:\Users\kusam\Documents\cs_code\CallDll\obj\Debug\netcoreapp3.1\CallDll.pdb
+C:\Users\kusam\Documents\cs_code\CallDll\obj\Debug\netcoreapp3.1\CallDll.genruntimeconfig.cache
